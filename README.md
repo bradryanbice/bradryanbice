@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bradryanbice
 - 👀 I’m interested in CSS, design, design systems, UI, and power tools
 - 🌱 I’m currently learning about creating easy-to-use design systems in Figma
-- 💞️ I’m looking to collaborate on innovative ways to collaborate between designers and developers
+- 💞️ I’m looking to collaborate on innovative ways for designers and developers to work together
 - 📫 How to reach me: https://www.bradbice.com
 
 <!---
